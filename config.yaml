@@ -26,7 +26,7 @@ life_cycle: pre-alpha
 license: CC-BY 4.0
 
 # Link to the source repository for this lesson
-source: https://github.com/carpentries/workbench-template-md
+source: https://github.com/mkuzak/test-lesson
 
 # Default branch of your lesson
 branch: main
